@@ -90,21 +90,21 @@ CLIFF-V1.1.1_250710-HW1.0_250331-beta.axf
 - **固件生命周期流程图**
 
 ```mermaid
-flowchart TD
-    A[Development Completed] --> B[Alpha Stage / Internal Test Version]
-    B --> C{Test Engineer Testing}
-    C -->|Test Passed| D[Beta Stage / Factory Test / Public Test Version]
-    C -->|Test Failed| E[Feedback Issues]
-    E --> F[Embedded Engineer Fixes]
-    F --> G[Release New Version]
+graph TD
+    A[开发完成] --> B[alpha阶段/内测版本]
+    B --> C{测试工程师测试}
+    C -->|测试通过| D[beta阶段/厂测/公测版本]
+    C -->|测试不通过| E[反馈问题]
+    E --> F[嵌入式工程师修复]
+    F --> G[重新发布新版本]
     G --> B
-
-    D --> H{Factory Production Testing}
-    H -->|Test Passed| I[Release Stage / Official Release Version]
-    H -->|Test Failed| J[Feedback Issues]
+    
+    D --> H{工厂生产测试}
+    H -->|测试通过| I[release阶段/正式发布版本]
+    H -->|测试不通过| J[反馈问题]
     J --> F
-
-    I --> K[Mass Production Use]
+    
+    I --> K[量产使用]
 ```
 
 ---
