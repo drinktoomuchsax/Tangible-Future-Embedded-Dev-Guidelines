@@ -105,12 +105,6 @@ flowchart TD
     J --> F
     
     I --> K[量产使用]
-    
-    style A fill:#e1f5fe
-    style B fill:#fff3e0
-    style D fill:#f3e5f5
-    style I fill:#e8f5e8
-    style K fill:#f1f8e9
 ```
 
 ---
