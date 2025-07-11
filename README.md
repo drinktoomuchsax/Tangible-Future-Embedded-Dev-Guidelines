@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-<a href="jump/to/designer/profile" >
+<a href="https://www.pinterest.com/pin/357543657939014995/" >
   <img width="190" src="attic/logo.png" alt="Guideline logo">
 </a>
   </p>  
