@@ -1,8 +1,22 @@
-# 可触未来嵌入式开发规范
+<div>
+<p align="center">
+<a href="jump/to/designer/profile" >
+  <img width="190" src="attic/logo.png" alt="Guideline logo">
+</a>
+  </p>  
+<h1 align="center">
+    可触未来嵌入式开发规范
+</h1>
+<p align="center">
+  统一规范 · 精益求精 · 高效协作
+</p>
+</div>
 
-- [可触未来嵌入式开发规范](#可触未来嵌入式开发规范)
-  - [0. 版本规范](#0-版本规范)
-  - [X. 🖋️开发者签名墙](#x-️开发者签名墙)
+---
+
+
+- [0. 版本规范](#0-版本规范)
+- [X. 🖋️开发者签名墙](#x-️开发者签名墙)
 
 ## 0. 版本规范
 
